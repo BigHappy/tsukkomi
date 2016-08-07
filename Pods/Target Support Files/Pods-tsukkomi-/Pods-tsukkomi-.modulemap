@@ -1,0 +1,6 @@
+framework module Pods_tsukkomi_ {
+  umbrella header "Pods-tsukkomi--umbrella.h"
+
+  export *
+  module * { export * }
+}
